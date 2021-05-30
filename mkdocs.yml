@@ -1,0 +1,5 @@
+site_name: Reasonably Selenium's Wiki
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
